@@ -1,4 +1,5 @@
 #![feature(array_windows)]
+#![feature(array_chunks)]
 
 use std::io::{BufReader, BufRead};
 use std::fs::File;
